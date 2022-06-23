@@ -1,0 +1,10 @@
+{
+  "name": "learn-thegraph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex McGonagle",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
